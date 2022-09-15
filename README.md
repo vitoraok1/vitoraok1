@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/vitoraok1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoraok1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rcos-dev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=vitoraok1&count_private=true&show_icons=true&theme=react"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoraok1&layout=compact&theme=react"/>
 </div>
 
 ##
