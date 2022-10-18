@@ -1,10 +1,12 @@
 ## Olá eu sou o Vitor Aoki!
 
 <div align="center">
-  <a href="https://github.com/vitoraok1">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=vitoraok1&count_private=true&show_icons=true&theme=react"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoraok1&layout=compact&theme=react"/>
+  <a href="https://vitoraok1.github.io">
+    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=vitoraok1&count_private=true&show_icons=true&theme=github_dark&include_all_commits=false&hide_border=true"/>
+    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoraok1&theme=github_dark&layout=compact&hide_border=true&langs_count=8"/>
+  </a>
 </div>
+
 
 ##
 
