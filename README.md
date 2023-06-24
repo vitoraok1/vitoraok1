@@ -1,5 +1,5 @@
----
 [![](https://visitcount.itsvg.in/api?id=vitoraok1&icon=1&color=1)](https://visitcount.itsvg.in)
+---
 
 ## 💫 About Vitor:
 :slightly_smiling_face: I'm a web developer based in Cianorte - PR.
