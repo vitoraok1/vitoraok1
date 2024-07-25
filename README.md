@@ -2,7 +2,7 @@
 ---
 
 ## 💫 About Vitor:
-:slightly_smiling_face: I'm a web developer based in Cianorte - PR.
+:slightly_smiling_face: I'm a web developer based in Itajaí - SC.
 
 ## :speech_balloon: Contact:
 <div>
