@@ -2,7 +2,7 @@
 ---
 
 ## 💫 About Vitor:
-:slightly_smiling_face: I'm a web developer based in Itajaí - SC.
+:slightly_smiling_face: Full Stack Web Developer with approximately 2 years of experience, focused on building scalable and efficient web applications. Extensive experience in both front-end and back-end development, with strong proficiency in key technologies such as JavaScript, TypeScript, React, Node.js, Express, MySQL, and Docker. Skilled in advanced testing practices, version control with Git/GitLab, agile methodologies (Scrum, Kanban), and responsive design. Background in game development using Lua and GDScript adds to my technical versatility. I aim to join collaborative teams, delivering end-to-end solutions that combine quality, usability, and performance.
 
 ## :speech_balloon: Contact:
 <div>
